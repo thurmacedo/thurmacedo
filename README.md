@@ -5,18 +5,18 @@
 
 ### 🚀 Sobre mim
 - 🎨 Meu primeiro projeto utilizando HTML, CSS e JavaScript: [Bikcraft](https://github.com/thurmacedo/bikcraft.git)
-- 📚 Atualmente estudando **SQL, React e JavaScript**
 - 🎯 Projeto CSS Flexbox: [Flexblog](https://github.com/thurmacedo/flexblog.git)
+- 📚 Atualmente estudando **SQL, React e JavaScript**
 
 ---
 
 ### 🌎 Conecte-se comigo
-<div>
-  <a href="https://www.linkedin.com/in/arthur-henrique-05179b2aa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+<div >
+  <a href="https://www.linkedin.com/in/arthur-henrique-05179b2aa/" target="_blank" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-    <a href="mailto:arthursmacedo2005@gmail.com" target="_blank" >
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor" alt="Gmail" width="40" height="40" target="_blank/>
+  <a href="mailto:arthursmacedo2005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
@@ -50,9 +50,7 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-<div align="start" style="background-color: #2D2D2D; padding: 25px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); color: #E63946;">
-  <h3 style="color: #E63946;">Arthur's GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thurmacedo&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="thurmacedo" width="300"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=thurmacedo&show_icons=true&locale=en&theme=vision-friendly-dark" alt="thurmacedo"/>
+<div align="start" style="display: flex; gap: 20px; background-color: #2D2D2D; padding: 20px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); color: #E63946;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thurmacedo&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="thurmacedo" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thurmacedo&show_icons=true&locale=en&theme=vision-friendly-dark" alt="thurmacedo" width="400"/>
 </div>
